@@ -1,4 +1,4 @@
-```[Home](index.md)```  ```[Publications](https://scholar.google.com/citations?user=dbZzyagAAAAJ)```
+[# Home](index.md) [# Publications](https://scholar.google.com/citations?user=dbZzyagAAAAJ)
 
 # Alaettin Uçan
 
