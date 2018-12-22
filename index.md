@@ -21,4 +21,4 @@ aucan [at] cs [dot] hacettepe [dot] edu [dot] tr
 
 
 [Linkedin](https://www.linkedin.com/in/alaettin-ucan/)
-[twitter](https://twitter.com/alaattinucn)
+[twitter](https://twitter.com/alaattinucn)   
