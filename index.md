@@ -1,4 +1,7 @@
-# [Home](index.md)    <a href="https://scholar.google.com/citations?user=dbZzyagAAAAJ" target="_blank">Publications</a>
+# Researh Asistant Alaettin UÇAN
+
+
+## [Home](index.md)    <a href="https://scholar.google.com/citations?user=dbZzyagAAAAJ" target="_blank">Publications</a>
 
 
 
