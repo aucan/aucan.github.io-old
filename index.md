@@ -13,5 +13,7 @@ Beytepe Campus 06800, Cankaya,
 Ankara, Turkey
 
 aucan [at] cs [dot] hacettepe [dot] edu [dot] tr
+
 [Linkedin](https://www.linkedin.com/in/alaettin-ucan/)
+
 [twitter](https://twitter.com/alaattinucn)
