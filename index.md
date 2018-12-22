@@ -1,4 +1,4 @@
-```markdown [# Home](index.md)```  ```markdown [# Publications](https://scholar.google.com/citations?user=dbZzyagAAAAJ) ```
+```markdown [Home](index.md)```  ```markdown [Publications](https://scholar.google.com/citations?user=dbZzyagAAAAJ) ```
 
 # Alaettin Uçan
 
