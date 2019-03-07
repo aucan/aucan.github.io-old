@@ -1,4 +1,6 @@
-<img width=200px src=https://avatars2.githubusercontent.com/u/1591145>
+<img width=200px src="https://avatars2.githubusercontent.com/u/1591145" alt="hi" class="inline"/>
+
+
 # Researh Asistant Alaettin UÇAN
 
 
