@@ -1,4 +1,4 @@
-[Image](avatar.jpg)
+![Alaettin Uçan](avatar.jpg)
 
 
 # Researh Asistant Alaettin UÇAN
