@@ -1,4 +1,4 @@
-[Image]("avatar.jpg")
+[Image](avatar.jpg)
 
 
 # Researh Asistant Alaettin UÇAN
