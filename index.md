@@ -1,4 +1,4 @@
-
+![Alaettin Uçan](avatar.jpg) 
 
 
 # Researh Asistant Alaettin UÇAN
@@ -9,7 +9,7 @@
 
 
 ## Short Bio
-![Alaettin Uçan](avatar.jpg) | I am a PhD candidate and a research assistant at the [Department of Computer Engineering](http://cs.hacettepe.edu.tr/), Hacettepe University , Ankara, Turkey. I received my BSc degree from Department of Computer Engineering, [KTMU](http://manas.edu.kg/). I am working on Emotion Analysis in text under the supervision of [Ebru SEZER](http://yunus.hacettepe.edu.tr/~ebru/).
+I am a PhD candidate and a research assistant at the [Department of Computer Engineering](http://cs.hacettepe.edu.tr/), Hacettepe University , Ankara, Turkey. I received my BSc degree from Department of Computer Engineering, [KTMU](http://manas.edu.kg/). I am working on Emotion Analysis in text under the supervision of [Ebru SEZER](http://yunus.hacettepe.edu.tr/~ebru/).
 
 ## Contact
 
