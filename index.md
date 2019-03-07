@@ -1,4 +1,4 @@
-<img width=200px src="avatar.jpg" alt="hi" class="inline"/>
+[Image]("avatar.jpg")
 
 
 # Researh Asistant Alaettin UÇAN
