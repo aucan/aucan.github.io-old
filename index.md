@@ -1,7 +1,7 @@
 ![Alaettin Uçan](avatar.jpg) 
 
 
-# Researh Asistant Alaettin UÇAN
+# R.A. Alaettin UÇAN
 
 
 ## <a href="https://scholar.google.com/citations?user=dbZzyagAAAAJ" target="_blank">Publications</a>
