@@ -23,14 +23,10 @@ aucan [at] cs [dot] hacettepe [dot] edu [dot] tr
 
 
 
-[Linkedin](https://www.linkedin.com/in/alaettin-ucan/)
-
-[twitter](https://twitter.com/alaettin_ucan)   
-
-[ORCID](https://orcid.org/0000-0002-2493-4022)
-
-[Web of Science](https://publons.com/researcher/E-9147-2013/)
-
+[Linkedin](https://www.linkedin.com/in/alaettin-ucan/) | 
+[twitter](https://twitter.com/alaettin_ucan) | 
+[ORCID](https://orcid.org/0000-0002-2493-4022) | 
+[Web of Science](https://publons.com/researcher/E-9147-2013/) | 
 [YÖK](https://akademik.yok.gov.tr/AkademikArama/AkademisyenGorevOgrenimBilgileri?islem=direct&authorId=36CE9652391EA366)
 
 
